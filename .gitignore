@@ -1,6 +1,9 @@
 .ipynb_checkpoints/
 *.yml
 *.pyc
+*.pptx
+*sandbox.ipynb
+*-Copy*.ipynb
 desktop.ini
 __pycache__
 ~$*.*
